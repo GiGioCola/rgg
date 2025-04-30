@@ -1,8 +1,8 @@
 Type: Package
 Title: A Collection of Customizable Graphs
 Version: 0.1.0
-Author: Giuseppe Giorgio Colabufo <your.email@example.com>
-Maintainer: Giuseppe Giorgio Colabufo <your.email@example.com>
+Author: Giuseppe Giorgio Colabufo <giuseppe.colabufo.2016@polytechnique.org>
+Maintainer: Giuseppe Giorgio Colabufo <giuseppe.colabufo.2016@polytechnique.org>
 Description: This package provides functions to create various types of customizable graphs, including sparkline plots, chord diagrams, lollipop graphs, and slope graphs.
 Depends: R (>= 3.5.0)
 Imports:
