@@ -1,0 +1,6 @@
+export(create_circle_plot)
+export(create_sparkline)
+export(create_lollipop)
+export(create_chord_diagram)
+export(create_slope_graph)
+
