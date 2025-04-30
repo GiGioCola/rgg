@@ -6,6 +6,9 @@ source("R/chord_diagram.R")
 source("R/create_sparkline.R")
 source("R/create_lollipop.R")
 source("R/create_slope_graph.R")
+source("R/hello.R")
+source("R/create_waterfall.R")
+
 
 # Define the path to the tests directory
 tests_dir <- file.path(getwd(), "tests/testthat")

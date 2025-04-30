@@ -3,4 +3,6 @@ export(create_sparkline)
 export(create_lollipop)
 export(create_chord_diagram)
 export(create_slope_graph)
+export(hello)
+export(create_waterfall)
 

@@ -1,11 +1,11 @@
 \name{hello}
 \alias{hello}
-\title{Hello, World!}
+\title{Display fun examples of the package functions}
 \usage{
 hello()
 }
 \description{
-Prints 'Hello, world!'.
+This function displays fun examples of the functions in the \code{rgg}.
 }
 \examples{
 hello()

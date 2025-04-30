@@ -12,3 +12,4 @@ License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
+Acknowledgements: This package was inspired by the LinkedIn Learning course "Build Advanced Charts in R" (https://github.com/LinkedInLearning/build-advanced-charts-in-r-4405613).
